@@ -35,7 +35,7 @@ We are not expecting a production-ready system. Instead, we are interested in:
 
 If you do not finish, please leave comments or notes explaining your thinking.
 
-## AI tools are encouraged**
+## AI tools are encouraged
 
 Use them as you would on the job (Claude, ChatGPT, Copilot, Cursor or similar). We are interested in how you use them well:
 
